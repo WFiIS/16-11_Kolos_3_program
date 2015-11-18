@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447677550 source:g:\codeblocks\16-11_kolos_3_program\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
